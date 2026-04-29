@@ -1,0 +1,5 @@
+raw_data/*.fastq.gz
+alignment/*.bam
+alignment/*.sam
+variants/*.vcf
+qc/
